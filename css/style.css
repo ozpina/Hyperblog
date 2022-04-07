@@ -36,11 +36,14 @@ body{
     font-weight: normal;
     font-size: 15px;
 }
-figure{
-    margin: 0;
-    padding: 0;
+
+footer{
+    background-color: blueviolet;
 }
-.img{
-    height: 40px;
-    width: 50px;
+
+.platzi{
+    font-size: 18px;
+    color: gold;
+    text-align: center;
+    padding: 5px;
 }
