@@ -8,3 +8,4 @@
 - Buenas practicas
 - Flujo de trabajo 
 - Control de versiones en nuestro equipo
+- Ejemplos en todas las SO
