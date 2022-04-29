@@ -7,4 +7,4 @@
 - Comandos importates que utilizaremos dia a dia
 - Buenas practicas
 - Flujo de trabajo 
-
+- Control de versiones en nuestro equipo
